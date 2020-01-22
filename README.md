@@ -4,7 +4,7 @@ A beautiful and lightweight web-proxy site built to be easy to use and modify fo
 
 [![Codeship Status for X-ProxyTech/phoenix-reborn](https://app.codeship.com/projects/a4ae2870-13ba-0138-609b-5a3ac7b7bdd1/status?branch=master)](https://app.codeship.com/projects/380496)
 
-[![Uptime Robot Uptime for X-ProxyTech/phoenix-reborn]https://img.shields.io/uptimerobot/ratio/m784194797-659a7a08f6787c1e0fd380db?label=Uptime)](https://uptimerobot.com/)
+[![Uptime Robot Uptime for X-ProxyTech/phoenix-reborn](https://img.shields.io/uptimerobot/ratio/m784194797-659a7a08f6787c1e0fd380db?label=Uptime)](https://uptimerobot.com/)
 
 Initial Release Date: 02/11/2019.
 
